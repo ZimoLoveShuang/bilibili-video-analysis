@@ -10,7 +10,7 @@ B站视频解析真实地址
 
 1. 下载或者clone仓库
     ```shell script
-    git clone 
+    git clone https://github.com/ZimoLoveShuang/bilibili-video-analysis.git
     ```
 2. 安装依赖
     ```shell script
